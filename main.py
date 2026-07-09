@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Log Analyzer CLI
 Advanced multi-format log analysis with anomaly detection, ML clustering, and rich reporting.
