@@ -1,7 +1,5 @@
-
 """
 Log Analyzer CLI
-Advanced multi-format log analysis with anomaly detection, ML clustering, and rich reporting.
 """
 import sys
 import time
